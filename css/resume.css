@@ -2,6 +2,10 @@ body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96;
+  transform: scale(1.1);
+  transform-origin: 0 0;
+  -moz-transform: scale(3);
+  -moz-transform-origin: 0 0;
 }
 
 @media (min-width: 992px) {
